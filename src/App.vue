@@ -2,47 +2,8 @@
     <div class = "giris">
       <div class="yazi">
         <p class="deli"><span class="deli-upper">DELİ</span> BİLİM &amp; SANAT</p>
-                 <a class="button" href="https://www.instagram.com/delifestival/?hl=tr">
-                  <h2 class="icon-yazi">Deli Festival</h2>
-                  <i class="color-text-flow fab fa-instagram icon"></i>
-                </a>
-              </div>
-            </div>
-          </div>
-          <div class="first">
-            <div class="icons">
-              <div class="container">
-                <a class="button" href="https://www.instagram.com/deliteknolojicom/">
-                  <h2 class="icon-yazi">Deli Teknoloji</h2>
-                  <i class="color-text-flow fab fa-instagram icon"></i>
-                </a>
-              </div>
-              <div class="container">
-                <a class href="https://www.instagram.com/delifestival/"="button">
-                  <h2 class="icon-yazi">Deli Store</h2>
-                  <i class="color-text-flow fab fa-instagram icon"></i>
-                </a>
-              </div>
-            </div>
-          </div>
-          <div class="first">
-            <div class="icons">
-              <div class="container">
-                <a class="button" href="https://www.instagram.com/delikitapcom/d">
-                  <h2 class="icon-yazi">Deli Kitap</h2>
-                  <i class="color-text-flow fab fa-instagram icon"></i>
-                </a>
-              </div>
-              <div class="container">
-                <a href="https://www.instagram.com/firatilhanortaokulu/" class="button">
-                  <h2 class="icon-yazi"><span class="insta-okul">Firat Ilhan Ortaokulu</span></h2>
-                  <i class="color-text-flow fab fa-instagram icon"></i>
-                </a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>-->
+        <p class="firat">Firat İlhan Ortaokuluna Hoşgeldiniz</p>
+      </div>
       <div class="iletisim" v-show="show_item">
         <div class="allMap">
           <div class="iletisim_ilet" @click="toggle_show()" v-show="show_item">
@@ -111,7 +72,6 @@
 </template>
 
 <script>
-
 export default {
     data () {
         return {
