@@ -12,13 +12,13 @@
           <div class="first">
             <div class="icons">
               <div class="container">
-                <a class="button" href="https://www.instagram.com/delibilimsanat/?hl=tr">
+                <a class="button" href="https://www.instagram.com/deliteknolojicom/">
                   <h2 class="icon-yazi">Deli Teknoloji</h2>
                   <i class="color-text-flow fab fa-instagram icon"></i>
                 </a>
               </div>
               <div class="container">
-                <a class="button">
+                <a class href="https://www.instagram.com/delifestival/"="button">
                   <h2 class="icon-yazi">Deli Store</h2>
                   <i class="color-text-flow fab fa-instagram icon"></i>
                 </a>
@@ -28,13 +28,13 @@
           <div class="first">
             <div class="icons">
               <div class="container">
-                <a class="button" href="https://www.instagram.com/delibilimsanat/?hl=tr">
+                <a class="button" href="https://www.instagram.com/delikitapcom/d">
                   <h2 class="icon-yazi">Deli Kitap</h2>
                   <i class="color-text-flow fab fa-instagram icon"></i>
                 </a>
               </div>
               <div class="container">
-                <a class="button">
+                <a href="https://www.instagram.com/firatilhanortaokulu/" class="button">
                   <h2 class="icon-yazi"><span class="insta-okul">Firat Ilhan Ortaokulu</span></h2>
                   <i class="color-text-flow fab fa-instagram icon"></i>
                 </a>
